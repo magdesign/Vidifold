@@ -7,4 +7,4 @@ All credits and licenses are by John Day
 
 
 
-video: https://player.vimeo.com/video/415522513f
+videos: https://www.youtube.com/channel/UCnSYG1WS-OWw1905Md84MTg
